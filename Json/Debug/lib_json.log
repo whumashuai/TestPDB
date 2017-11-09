@@ -1,0 +1,7 @@
+﻿  json_writer.cpp
+  json_value.cpp
+h:\project\jsoncpp\src\lib_json\json_value.cpp(1203): warning C4996: 'Json::Value::removeMember':
+  h:\project\jsoncpp\src\lib_json\json_value.cpp(1190): note: see declaration of 'Json::Value::removeMember'
+  json_reader.cpp
+  Generating Code...
+  lib_json.vcxproj -> H:\project\jsoncpp\makefiles\msvc2010\Debug\lib_json.lib
